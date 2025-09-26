@@ -7,6 +7,9 @@
 📫 How to reach me zoeheyneke@gmail.com<br/>
 🏌️‍♀️ Fun fact: I love playing golf!<br/>
 
+# 💼My Portfolio
+https://zoe-heyneke.github.io/portfolio/
+
 # 💻Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ### 💬Languages
